@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+:root{
+	--f7-theme-color:#5079FE;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #5079FE; /*navbar link*/
+	--f7-navbar-text-color:#7C899F;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+	--color-rosado: #ffb6c1;
+	--color-amarillo: #fff6dd;
+	--color-azul: #A49FFF;
+}
+
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+.img-fluid {
+	max-width: 100%;
+}
+
+#panel-menu {
+	background-color: #ffb6c1;
+	color: #FFFFFF;
+	text-align: left;
+	font-weight: 300;
+	font-family: 'Poppins', sans-serif;
+}
+
+#menu-list {
+	background-color: #ffb6c1;
+	color: #FFFFFF;
+	text-align: left;
+	font-weight: 300;
+	font-family: 'Poppins', sans-serif;
+}
+
+.material-icons{
+	color:#ffb6c1;
+}
+
+#menu-list img{
+	border-radius: 100%;
+	padding-top: 5%;
+}
+
+
+
+#besthome {
+	background-image: url("../img/bestseller.jpeg");
+	background-size: 100%;
+}
+
+.card-home{
+	background-color:#fff6dd;
+}
+
+h3{
+	color:#ffb6c1;
+	text-align: center;
+}
+
+h2{
+	color:#ffb6c1;
+	font-weight: bolder;
+}
+
+.nav-bar-title{
+	color:#ffb6c1;
+}
+
+h4{
+	color:#FFFFFF;
+}
+
+#hero2{
+	background-image: url("../img/fondo2.webp");
+	background-size: 160%;
+	padding: 10%;
+}
+
+h1{
+	color:#FFFFFF;
+	text-align: center;
+	font-size: 30px;
+}
+
+.tituloprod{
+	color:#A49FFF;
+	text-align: left;
+	font-size: 30px;
+}
+
+.fab{
+	color:#A49FFF;
+}
+
+
+p{
+	color:#A49FFF;
+}
+
+.iconpic img{
+	border-radius:100%;
+}
